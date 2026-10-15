@@ -1,5 +1,5 @@
 
-## EXPERIMENT 1: Measurement of Fiber Optic Loss
+## EXPERIMENT 1: MEASUREMENT OF FIBER OPTIC LOSS
 
 ## AIM
 To measure propagation loss and bending losses for two different wavelengths in plastic optical fiber using Python simulation.
