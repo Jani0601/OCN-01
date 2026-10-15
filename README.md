@@ -103,16 +103,16 @@ plt.grid(True)
 plt.legend(ncol=2)
 plt.show()
 ```
-## TABULATION:
+## OBSERVATION:
 
 <img width="1600" height="1446" alt="image" src="https://github.com/user-attachments/assets/617bc146-de17-4b87-ba0c-c30db47eb454" />
 
+<img width="844" height="470" alt="image" src="https://github.com/user-attachments/assets/7d989dff-eec5-454e-8528-92b9863cfe4a" />
+
 <img width="1600" height="1168" alt="image" src="https://github.com/user-attachments/assets/a809e884-9a49-4e18-a9e1-e18b52278714" />
 
-
-## OBSERVATION:
-<img width="844" height="470" alt="image" src="https://github.com/user-attachments/assets/7d989dff-eec5-454e-8528-92b9863cfe4a" />
 <img width="844" height="470" alt="image" src="https://github.com/user-attachments/assets/eb6b8948-4d4e-488d-a592-e2fc098bb9cd" />
+
 
 
 ## RESULT:
